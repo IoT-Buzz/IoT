@@ -31,7 +31,7 @@ You can refer to the following articles on **_basics of Git and Github and also 
 
 <h2 align=center> 📝 Getting Started </h2>  
 
-- Take a look at [Contributing Guide](https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/master/CONTRIBUTING.md)
+- Take a look at [Contributing Guide]
 - Take a look at the Existing Issues or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
@@ -41,7 +41,7 @@ You can refer to the following articles on **_basics of Git and Github and also 
 <table>
 <tr>
 <td align="center"><a href="https://github.com/avinashkranjan"><img src="https://user-images.githubusercontent.com/55796944/95675026-dab07580-0bd1-11eb-93e2-1cb1de8acf38.png" width=150px height=150px /></a></br> <h4 style="color:red;">Avinash Ranjan</h4>
-<a href="https://www.linkedin.com/in/avinashkranjan/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+<a href="https://www.linkedin.com/in/avinashkranjan/"></a></td>
 
 <td align="center" ><a href="https://github.com/kaustubhgupta"><img src="https://user-images.githubusercontent.com/55796944/119778028-95348480-bee4-11eb-86b2-0ba065316e5f.jpg" width=150px height=150px /></a></br> <h4 style="color:red;">Kaustubh Gupta</h4>
 <a href="https://www.linkedin.com/in/kaustubh-gupta/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
