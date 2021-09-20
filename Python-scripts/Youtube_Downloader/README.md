@@ -4,7 +4,7 @@
 
 
 ## Usage
-* we can use this code to download youtube videos , you just need to paste the link and press download button 
+* We can use this code to download youtube videos , you just need to paste the link and press download button 
 
 
 ## Output :smiley:
