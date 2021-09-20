@@ -1,4 +1,4 @@
-## Perf Board   
+# Perf Board   
 <img src="https://user-images.githubusercontent.com/60490438/133921980-614a950f-ec8a-4f2a-89b2-a2e9da90391a.png" width="500" height="400">
 
 It is used for more refined project , it is a board with pre drilled holes with copper clad back in which we can insert differnt components and can solder them to make our desired circuit.     
