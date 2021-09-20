@@ -48,17 +48,17 @@ Below here is the tree structure for better understanding of the flow of the rep
     │   ├───breadboard
     │   ├───PCB
     │   └───Perf_Board
-	├───Week-2
+    ├───Week-2
     │   └───respective pdf
-	├───Week-3
+    ├───Week-3
     │   └───respective pdf
-	├───Week-4
+    ├───Week-4
     │   └───respective pdf
-	├───Week-5
+    ├───Week-5
     │   └───respective pdf
-	├───Week-6
+    ├───Week-6
     │   └───respective pdf
-	└───Week-7
+    └───Week-7
         └───respective pdf
 ```
 
