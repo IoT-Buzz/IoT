@@ -3,7 +3,7 @@
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)
-![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
+
 
 [![GitHub issues](https://img.shields.io/github/issues/Global-IOT/IOT.svg)](https://github.com/Global-IOT/IOT/issues)
 [![GitHub issues closed](https://img.shields.io/github/issues-closed/Global-IOT/IOT.svg)](https://github.com/Global-IOT/IOT/issues?q=is%3Aissue+is%3Aclosed)
