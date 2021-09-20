@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-This project is to create using python , openCv through which we can check weather we are able to detect face or not.
+This project is created using python and openCv ,through which we can check weather we are able to detect face or not.
 
 ## Usage
 * we can check weather we are able to detect face or not
