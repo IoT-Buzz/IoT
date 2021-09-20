@@ -45,19 +45,19 @@ Below here is the tree structure for better understanding of the flow of the rep
 ├───screenshots
 └───WEEK_of_learning
     ├───Week-1
-    |   ├───breadboard
-    |   ├───PCB
-    |   └───Perf_Board
+    │   ├───breadboard
+    │   ├───PCB
+    │   └───Perf_Board
 	├───Week-2
-    |   └───respective pdf
+    │   └───respective pdf
 	├───Week-3
-    |   └───respective pdf
+    │   └───respective pdf
 	├───Week-4
-    |   └───respective pdf
+    │   └───respective pdf
 	├───Week-5
-    |   └───respective pdf
+    │   └───respective pdf
 	├───Week-6
-    |   └───respective pdf
+    │   └───respective pdf
 	└───Week-7
         └───respective pdf
 ```
