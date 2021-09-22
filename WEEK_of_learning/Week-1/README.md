@@ -17,3 +17,6 @@ for connecting different components we generally use wires, but as complexity of
 <p> For connections it become very easy if we use jumper wires with breadboard. Jumper wires are of three types i.e. having male ends on both sides or female ends on both sides or one male and one female on either side. these cables are very easy to use and can be pluged directly into breadboard and other development boards like arduino , nodemcu ,etc .</p>
 <p> For perfboard we usually do soldering over the board or soldering some wires over holes for connections this type of connections are little harder then direct plug in jumper connections but are more durable then them.</p>
 <p> While in the case of pcb the connections are already made and we have to just solder the components in the circuit board for final product.</p>
+
+## Components 
+<p> Some basic components

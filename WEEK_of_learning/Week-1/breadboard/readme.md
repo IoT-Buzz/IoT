@@ -15,3 +15,5 @@ benifits of using breadboard are :
 5. quick modification capability
 6. temporary prototype
 
+for furter clarification you can watch [this](https://www.youtube.com/watch?v=S_a-qCy6Ekk) tutorial video.
+
