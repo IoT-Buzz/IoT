@@ -3,4 +3,4 @@
 
 **` warning `** If you are a beginner and never used soldering iron before, prefer to use 25 Watt Soldering Iron , don't use more then that otherwise it will burn your components and can cause more damage to the person using it as well.
 
-for more information on soldering follow this [link](https://drive.google.com/drive/folders/14kBGf3uYT50VaBI28qPzWT6sFrGUsaKi?usp=sharing)
+for more information on soldering follow this [link](https://drive.google.com/file/d/17BHASxFrliMFSQa6htL4We69Bg7XOTrA/view?usp=sharing)
