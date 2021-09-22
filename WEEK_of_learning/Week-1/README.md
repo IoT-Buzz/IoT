@@ -19,4 +19,20 @@ for connecting different components we generally use wires, but as complexity of
 <p> While in the case of pcb the connections are already made and we have to just solder the components in the circuit board for final product.</p>
 
 ## Components 
-<p> Some basic components
+<p> there are many small electronic components required to make a working circuit like resistors , capaciators , ic, diodes, transistors,led's, capaciators, transformers, etc. But for time being let us learn a little about basic one's</p>
+
+### Resistors
+Resistors are two terminal electronic components used to limit the current flowing in a circuit.
+
+### L.E.D
+led stands for light emitting diode and as it's name suggest it emits light.It comes in variety of size and color.Led are just PN junction so they don't glow in reverse biased. We need to connect a pullup resistor with led so that they do not blow up by exessive current passing through them.  
+
+Led has two legs bigger one is for positive and the other is for negative.  
+
+for more information on led follow this [link](https://startingelectronics.org/beginners/components/LED/).
+
+### Transistor
+A Transistor is a three terminal semiconductor device that regulates current or voltage flow and acts as a switch or gate for signals.
+
+for more information on transistor follow this [link](https://www.tutorialspoint.com/basic_electronics/basic_electronics_transistors.htm)
+
