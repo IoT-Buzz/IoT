@@ -1,4 +1,5 @@
-## Bread Board   
+## Breadboard
+
 ![image](https://user-images.githubusercontent.com/60490438/133906071-abc21f64-6233-43d6-83de-4192654cd8ff.png)  
 
 
@@ -20,4 +21,6 @@ benifits of using breadboard are :
 4. Easy to use
 5. Quick modification capability
 6. Temporary prototype
+
+for furter clarification you can watch [this](https://www.youtube.com/watch?v=S_a-qCy6Ekk) tutorial video.
 
