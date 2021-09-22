@@ -20,7 +20,7 @@ for connecting different components we generally use wires, but as complexity of
 
 <p> For perfboard we usually do soldering over the board or soldering some wires over holes for connections this type of connections are little harder then direct plug in jumper connections but are more durable then them.</p>  
 
-Follow [this](https://github.com/rahulguglani/IOT/tree/main/WEEK_of_learning/Week-1/soldering) for knowing more about soldering
+Follow [this](https://github.com/IoT-Buzz/IoT/tree/main/WEEK_of_learning/Week-1/soldering) for knowing more about soldering
 
 <p> While in the case of pcb the connections are already made and we have to just solder the components in the circuit board for final product.</p>
 
