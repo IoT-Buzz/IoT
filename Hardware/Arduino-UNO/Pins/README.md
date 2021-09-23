@@ -16,4 +16,3 @@ There are several I/O digital and analog pins placed on the board which operates
 * Serial Communication= Serial communication is carried out through two pins called Pin 0 (Rx) and Pin 1 (Tx).
 * Rx pin= is used to receive data while Tx pin is used to transmit data.
 * External Interrupts= Pin 2 and 3 are used for providing external interrupts. An interrupt is called by providing LOW or changing value.
-
