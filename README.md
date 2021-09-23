@@ -112,5 +112,5 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 <h1 align=center>Happy Learning 👨‍💻 </h1>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/e3/63/e3/e363e38ceffaece60e00b87ee4286e08.gif"/>
+<img src="screenshots/robo.gif?raw=true" width="300px"/>
 </p>
