@@ -22,5 +22,12 @@ benifits of using breadboard are :
 5. Quick modification capability
 6. Temporary prototype
 
+## PRECAUTIONS
+1. Do not connect it directly to the supply from switch board i.e. do not give it voltage from 
+mains supply) because the closely situated connections may possibly create arcing or 
+even dangerous short circuits and a fire.
+2. Remember the outer body of breadboard is made up of plastic, so avoid exposing it to 
+extreme heat.
+
 for furter clarification you can watch [this](https://www.youtube.com/watch?v=S_a-qCy6Ekk) tutorial video.
 
