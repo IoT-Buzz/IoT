@@ -11,8 +11,8 @@ The software used for writing, compiling & uploading code to Arduino boards is c
 * Out of 14  digital pins, 6 pins are used for generating PWM pulses of 8-Bit resolution. PWM pins in Arduino UNO are D3, D5, D6, D9, D10 and D11.
 
 <p align="center" float="left">
-<img height=420px width =450 src = "https://github.com/naazkakria/Test22/blob/main/WEEK_of_learning/hardware/arduino-uno/pics/arduino-uno-s.png" >
-<img height=420px width =460  src ="https://github.com/naazkakria/Test22/blob/main/WEEK_of_learning/hardware/arduino-uno/pics/arduino-uno-s1.png">
+<img height=420px width =450 src = "https://github.com/IoT-Buzz/IoT/blob/main/Hardware/pictures/arduino-uno-s.png" >
+<img height=420px width =460  src ="https://github.com/IoT-Buzz/IoT/blob/main/Hardware/pictures/arduino-uno-s1.png">
 </p>
 
 ## Tech specs

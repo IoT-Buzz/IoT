@@ -1,6 +1,6 @@
 # Arduino UNO
 #### Arduino Uno is a microcontroller board based on the [ATmega328P](https://github.com/IoT-Buzz/IoT/tree/main/Hardware/Arduino-UNO/Microcontroller)
-<img src="https://github.com/naazkakria/Test22/blob/main/WEEK_of_learning/hardware/arduino-uno/pics/arduino-uno.jpg" width=500 height =300>
+<img src="https://github.com/IoT-Buzz/IoT/blob/main/hardware/arduino-uno/pics/microcontroller.png" width=500 height =300>
 <p>
 The first Arduino project was started in Interaction Design Institute Ivrea in 2003 by David Cuartielles and Massimo Banzi with the intention of providing a cheap and flexible way for students and professionals to learn embedded programming.
   </p>
