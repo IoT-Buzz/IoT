@@ -1,15 +1,15 @@
-![Amazing-Python-Scripts](https://socialify.git.ci/Global-IOT/IOT/image?font=KoHo&forks=1&issues=1&language=1&logo=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F33%2F4e%2F06%2F334e063ae9f247704b37549b4b0f47d1.png&owner=1&&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+![Amazing-Python-Scripts](https://socialify.git.ci/IoT-Buzz/IoT/image?font=KoHo&forks=1&issues=1&language=1&logo=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F33%2F4e%2F06%2F334e063ae9f247704b37549b4b0f47d1.png&owner=1&&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)
 
 
-[![GitHub issues](https://img.shields.io/github/issues/Global-IOT/IOT.svg)](https://github.com/Global-IOT/IOT/issues)
-[![GitHub issues closed](https://img.shields.io/github/issues-closed/Global-IOT/IOT.svg)](https://github.com/Global-IOT/IOT/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/Global-IOT/IOT.svg)](https://github.com/Global-IOT/IOT/pulls)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/Global-IOT/IOT.svg)](https://github.com/Global-IOT/IOT/pulls?q=is%3Apr+is%3Aclosed) ![GitHub repo size](https://img.shields.io/github/repo-size/Global-IOT/IOT?color=yellow) 
-![Lines of Code](https://img.shields.io/tokei/lines/github/Global-IOT/IOT?color=red&label=Lines%20of%20Code)
+[![GitHub issues](https://img.shields.io/github/issues/IoT-Buzz/IoT.svg)](https://github.com/IoT-Buzz/IoT/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/IoT-Buzz/IoT.svg)](https://github.com/IoT-Buzz/IoT/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/IoT-Buzz/IoT.svg)](https://github.com/IoT-Buzz/IoT/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/IoT-Buzz/IoT.svg)](https://github.com/IoT-Buzz/IoT/pulls?q=is%3Apr+is%3Aclosed) ![GitHub repo size](https://img.shields.io/github/repo-size/IoT-Buzz/IoT?color=yellow) 
+![Lines of Code](https://img.shields.io/tokei/lines/github/IoT-Buzz/IoT?color=red&label=Lines%20of%20Code)
 
 <h2 align=center> 📑 Introduction </h2>
 Week of Learning is a weekly program in which you will get all the necessary knowledge
@@ -39,27 +39,29 @@ Below here is the tree structure for better understanding of the flow of the rep
 
 ```bash
 ├───Hardware
+│   ├───Arduino-Nano
+│   ├───Arduino-UNO
+│   ├───ESP32
+│   ├───ESP8266
+│   │   └───images
+│   └───Sensors
 ├───projects
 ├───Python-scripts
-│   └───face-detection
+│   ├───Automation_Chrome
+│   ├───face-detection
+│   ├───opencv_game
+│   │   ├───pipes
+│   │   └───sounds
+│   └───Youtube_Downloader
 ├───screenshots
 └───WEEK_of_learning
-    ├───Week-1
-    │   ├───breadboard
-    │   ├───PCB
-    │   └───Perf_Board
-    ├───Week-2
-    │   └───respective pdf
-    ├───Week-3
-    │   └───respective pdf
-    ├───Week-4
-    │   └───respective pdf
-    ├───Week-5
-    │   └───respective pdf
-    ├───Week-6
-    │   └───respective pdf
-    └───Week-7
-        └───respective pdf
+    ├───Week 3
+    ├───Week 4
+    └───Week-1
+        ├───PCB
+        │   └───resources
+        ├───Perf_Board
+        └───soldering
 ```
 
 <h2 align=center> ✨ Contributors </h2>
@@ -69,8 +71,8 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/Global-IOT/IOT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Global-IOT/IOT" />
+			<a href="https://github.com/IoT-Buzz/IoT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=IoT-Buzz/IoT" />
 </a>
 		</td>
 	</tr>
@@ -108,3 +110,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 
 
 <h1 align=center>Happy Learning 👨‍💻 </h1>
+
+<p align="center">
+<img src="screenshots/robo.gif?raw=true" width="300px"/>
+</p>
