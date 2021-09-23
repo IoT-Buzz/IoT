@@ -23,5 +23,5 @@ Arduino Uno is programmed using Arduino Software which is a cross-platform appli
 * SRAM: 2KB
 * EEPROM: 1KB
 
-#### Arduino Uno [Pinout](https://github.com/naazkakria/Test22/tree/main/WEEK_of_learning/hardware/arduino-uno/pins)
+#### Arduino Uno [Pinout](https://github.com/IoT-Buzz/IoT/tree/main/Hardware/Arduino-UNO/Pins)
 
