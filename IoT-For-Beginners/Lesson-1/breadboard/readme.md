@@ -29,5 +29,9 @@ even dangerous short circuits and a fire.
 2. Remember the outer body of breadboard is made up of plastic, so avoid exposing it to 
 extreme heat.
 
+## FUN FACT 
+So why do we call this electronic “circuit builder” a breadboard?
+<p>Many years ago, when electronics were big and bulky, people would grab their mom’s breadboard, a few nails or thumbtacks, and start connecting wires onto the board to give themselves a platform on which they build their circuits.</p>
+
 for furter clarification you can watch [this](https://www.youtube.com/watch?v=S_a-qCy6Ekk) tutorial video.
 
