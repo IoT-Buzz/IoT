@@ -1,6 +1,6 @@
 # What is a MICROCONTROLLER ?
 <h5>
-   <img src="https://github.com/IoT-Buzz/IoT/blob/main/hardware/arduino-uno/pics/microcontroller%20.png">
+  <img src="https://github.com/IoT-Buzz/IoT/blob/main/Hardware/pictures/microcontroller%20.png">
 
   
 * A microcontroller is an integrated circuits ( IC ) that can be programmed to
