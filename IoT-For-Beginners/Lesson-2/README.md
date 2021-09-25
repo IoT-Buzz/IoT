@@ -9,6 +9,9 @@
 6. [BUZZER](https://github.com/IoT-Buzz/IoT/tree/main/IoT-For-Beginners/Lesson-2/Buzzer)
 7. [BATTERIES](https://github.com/IoT-Buzz/IoT/tree/main/IoT-For-Beginners/Lesson-2/Batteries)
 
+![image](https://user-images.githubusercontent.com/60490438/134764395-94342458-1aa9-4175-b887-44b283cbb41c.png)
+
+
 From these basic components we can start building fundamental projects and get started in field of iot.
 Some projects from which you can learn are :
 
