@@ -1,7 +1,12 @@
 # POTENTIOMETER
 A potentiometer (also known as a pot or potmeter) is defined as a 3 terminal variable resistor in which the resistance is manually varied to control the flow of electric current. A potentiometer acts as an adjustable voltage divider. 
 
+![image](https://user-images.githubusercontent.com/60490438/134764835-e1ad3808-c87d-4c21-9f42-65baef688d0d.png)
+
+
 ### potentiometer with Arduino
+
+![image](https://user-images.githubusercontent.com/60490438/134764860-d91b2709-5917-442b-ae7b-015a41383ea7.png)
 
 A potentiometer is a simple knob that provides a variable resistance, which we can read into the Arduino board as an analog value.  
 We connect three wires to the Arduino board. The first goes to ground from one of the outer pins of the potentiometer. The second goes from 5 volts to the other outer pin of the potentiometer. The third goes from analog input 2 to the middle pin of the potentiometer.  
