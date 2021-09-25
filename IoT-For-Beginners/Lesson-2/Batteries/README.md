@@ -2,6 +2,9 @@
 Battery is one of the importan component in Electrical and Electronics system.  
 A Battery is a chemical device that stores electrical energy in the form of chemicals and by means of electrochemical reaction, it converts the stored chemical energy into direct current (DC) electric energy. 
 
+![image](https://user-images.githubusercontent.com/60490438/134764945-df8e0bbd-779a-4e10-bd2c-a496e0e648f8.png)
+
+
 Basically, all the electrochemical cells and batteries are classified into two types:
 
 1. Primary (non-rechargeable)
