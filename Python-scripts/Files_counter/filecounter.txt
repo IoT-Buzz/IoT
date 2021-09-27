@@ -1,1 +1,1 @@
-file created to check wether it works or not
+file created to check whether it works or not
