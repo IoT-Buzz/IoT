@@ -52,6 +52,7 @@ Below here is the tree structure for better understanding of the flow of the rep
 │   ├───opencv_game
 │   │   ├───pipes
 │   │   └───sounds
+│   ├───Files_counter
 │   └───Youtube_Downloader
 ├───screenshots
 └───WEEK_of_learning
