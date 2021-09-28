@@ -4,8 +4,10 @@ The hardware utilized in IOT systems range from sensors, microcontrollers, actua
 Knowledge about specific hardware is the key to building a good IOT solution.  
 
 ### Table of contents  
-- [Arduino-Nano](Arduino-Nano)
-- [Arduino-UNO](Arduino-UNO)  
-- [ESP32](ESP32)  
-- [ESP8266](ESP8266)  
-- [Sensors](Sensors)  
+ Component       | Link     |
+| :------------- | :----------: |
+|Arduino-Nano|[Click-here](Arduino-Nano)|
+|Arduino-UNO| [Click-here](Arduino-UNO)|
+|ESP32| [Click-here](ESP32)|
+|ESP8266| [Click-here](ESP8266)|
+|Sensors| [Click-here](Sensors)|
