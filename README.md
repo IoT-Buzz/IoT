@@ -49,11 +49,11 @@ about Circuit-Building, Arduino and Micro-Controllers & IoT to get you started.
 ## 🤖 How to Contribute ?
 
 1. Take a look at [Contributing Guide](CONTRIBUTING.md)
-2. Checkout the existing issues [here](issues). 
+2. Checkout the existing issues [here](https://github.com/IoT-Buzz/IoT/issues). 
 3. Wait for the Issue to be assigned to you after which you can start working on it. 
 4. Fork the Repo and create a Branch for the issue you are working upon.
 5. Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it if needed. Kindly follow [this format](assets/pr_template.md) to raise a PR.
-6. If you want to raise an issue, follow [this format](assets/issue_template.md)
+6. If you find something missing or any other error, please raise an issue.
 
 ## ✨ Contributors
 
@@ -97,5 +97,5 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 <h1 align=center>Happy Learning 👨‍💻 </h1>
 
 <p align="center">
-<img src="screenshots/robo.gif?raw=true" width="300px"/>
+	<img src="assets/robo.gif?raw=true" width="300px"/>
 </p>
