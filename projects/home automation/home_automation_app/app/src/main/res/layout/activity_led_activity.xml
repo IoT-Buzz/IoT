@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LED_activity">
+
+ <ImageView
+     android:id="@+id/l1"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_alignParentTop="true"
+     android:layout_centerHorizontal="true"
+     android:layout_marginTop="10dp"
+     app:srcCompat="@drawable/light1_off" />
+
+ <ImageView
+     android:id="@+id/tl1"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_below="@+id/l1"
+     android:layout_centerHorizontal="true"
+     android:layout_marginTop="20dp"
+     app:srcCompat="@drawable/tubelight_off" />
+
+ <ImageView
+     android:id="@+id/nl1"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_below="@+id/tl1"
+     android:layout_centerHorizontal="true"
+     android:layout_marginTop="10dp"
+     app:srcCompat="@drawable/nightlamp_off" />
+
+ <ImageView
+     android:id="@+id/f1"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_below="@+id/nl1"
+     android:layout_centerHorizontal="true"
+     android:layout_marginTop="2dp"
+     app:srcCompat="@drawable/fan_off" />
+
+</RelativeLayout>
