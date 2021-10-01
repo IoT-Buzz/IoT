@@ -41,6 +41,48 @@ about Circuit-Building, Arduino and Micro-Controllers & IoT to get you started.
 - This gives you motivation to make great projects
 
 ### Motivation to learn
+1. Week of learning [pdfs](WEEK_of_learning) have awesome project links
+2. All the resources are concise and interesting
+3. You can learn from others [projects](projects)
+4. Learn about all the essential [hardware](Hardware)
+
+
+<h2 align=center> 📝 Curriculum </h2>  
+
+```
+Below here is the tree structure for better understanding of the flow of the repo
+```
+
+```bash
+├───Hardware
+│   ├───Arduino-Nano
+│   ├───Arduino-UNO
+│   ├───ESP32
+│   ├───ESP8266
+│   │   └───images
+│   └───Sensors
+├───projects
+├───Python-scripts
+│   ├───Automation_Chrome
+│   ├───face-detection
+│   ├───opencv_game
+│   │   ├───pipes
+│   │   └───sounds
+│   ├───Files_counter
+│   └───Youtube_Downloader
+├───screenshots
+└───WEEK_of_learning
+    ├───Week 3
+    ├───Week 4
+    └───Week-1
+        ├───PCB
+        │   └───resources
+        ├───Perf_Board
+        └───soldering
+```
+
+<h2 align=center> ✨ Contributors </h2>
+=======
 - Week of learning [pdfs](WEEK_of_learning) have awesome project links
 - All the resources are concise and interesting
 - You can learn from others [projects](projects)
