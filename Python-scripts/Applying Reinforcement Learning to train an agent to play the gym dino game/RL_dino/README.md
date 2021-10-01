@@ -71,10 +71,6 @@ python main.py
 
 
 
-#### Troubleshooting:
-
-
-
 
 
 
@@ -179,22 +175,6 @@ The Algorithm I implemented here is Deep Q Learning.
 
 In a DQN we enter the state into the neural network as the input and we get the Q values for output . From the output I used np.max() to find the optimal Q value.
 
-
-**sailent features** :
-- The input: Applying RL techniques to teach the agent to play Atari games is a common practise. I have learnt that to produce a sense of motion in games we need to stack 3-4 snapshots of the game enviroment together . So each input state for the CNN(since its pixel data) will be 4 screenshots stacked together. The shape for the input in my program is (20,40,4). 
-
-
-- Experience Replay: The big problem faced is if we send the outputs in a sequential manner the inputs maybe heavily correleated . This correleation will have a harmful effect on the model and we get a bad output . To counter this the agent plays the game for a specific number of times . All the observations(s,a,r , s') are then stored in memory. Then from this memory we randomly pick a fixed number of observations(batch_size=64 in our case) to train the CNN. This increases the speed , and reduces the danger of correlation.
-
-- the exploitation-exploration balance:A delicate balance needs to be maintained between exploitation (performing the same action which has produced results) and exploration(performing random actions). For example: You visit Amul after dinner everyday and get the chocolate ice cream every time .You can choose only one flavor of ice cream at a time. There are other flavours avialable ; yet you keep choosing the same one . This is exploitation . Another scenario is you choose a different flavour of ice-cream every day of the week . This is exploration . After exploration you find out that you like vanilla and butterscotch too. NOw you can choose between chocolate , vanilla and butterscotch . Yes ou do lose some iterations(money) while trying to explore more flavors and they turned out to be not palatable; but in the end you have more optons to choose from . This is what the balance of exploration and exploitation . To achieve this epsilon is used. Epsilon can be fixed or can be decided using some kind of function. a random number is generated using np.rand.random() and if it turns out to be less than epsilon a random action is taken . 
-
-
-## Resources:
-- This [resource](https://www.advisori.de/a-headless-gym-enviroment-for-every-browser-game/) helped me a lot in making the gym enviroment for the dino game . It also teaches you how to interact with the game javascript something i have no idea about.
-- This [resource](https://medium.com/acing-ai/how-i-build-an-ai-to-play-dino-run-e37f37bdf153) was a great help in understanding how to tackle the problem at hand. I did not implement his code but his reward function is fantastic. With each passing iteration the negative reward for crashing decreses while the reward for surviving increases giving the agent incentive to increase reward.
--  This [youtube](https://youtu.be/wYIiMH1cIis) gave a beginner like me an idea on how to implement the deep q .
-- This [resource](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) for the picture of the mdp architecture.
-- [David Silver Lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
 
 
 
