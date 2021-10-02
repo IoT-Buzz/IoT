@@ -18,43 +18,17 @@ There are no prerequisites; all you need is a basic understanding of Python and 
 
 # How to run the code locally
 
-- Clone this Repository
+Running the script is pretty easy, open a terminal in the folder where your script is located and run the following command :
 
-```
-git clone https://github.com/gaurtvin/python-projects.git
-```
-
-- Go to the Project directory
-
-```
-cd python-projects
-```
-
-- Go to the projects folder
-
-```
-cd projects
-```
-
-- Go to the Password-Validator folder
-
-```
-cd Password-Validator
-```
-
-- Run the following command
-
-```
-python main.py
-```
+`python main.py`
 
 # Sample use of the code
 
-![alt text](https://github.com/gaurtvin/python-projects/blob/master/projects/Password-Validator/screenshot_1.png)
+![alt text](https://github.com/Mannuel25/IoT/blob/main/Python-scripts/Password%20Validator/screenshot_1.png)
 
-![alt text](https://github.com/gaurtvin/python-projects/blob/master/projects/Password-Validator/screenshot_2.png)
+![alt text](https://github.com/Mannuel25/IoT/blob/main/Python-scripts/Password%20Validator/screenshot_2.png)
 
-![alt text](https://github.com/gaurtvin/python-projects/blob/master/projects/Password-Validator/screenshot_3.png)
+![alt text](https://github.com/Mannuel25/IoT/blob/main/Python-scripts/Password%20Validator/screenshot_3.png)
 
 # Author's name
 
