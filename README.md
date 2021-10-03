@@ -61,7 +61,10 @@ Below here is the tree structure for better understanding of the flow of the rep
 │   ├───ESP8266
 │   │   └───images
 │   └───Sensors
-├───projects
+├───Projects
+|    ├───LEDs in a loop
+|    ├───Timer
+|    └───Home Automation
 ├───Python-scripts
 │   ├───Automation_Chrome
 │   ├───face-detection
