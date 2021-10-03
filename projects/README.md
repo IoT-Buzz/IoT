@@ -1,5 +1,5 @@
-<h1 align='center'>Hardware</h1>  
-
+<h1 align='center'>Projects</h1>  
+Projects provide an organized way of bringing about some kind of change. These are some projects which deal with some real world problems to make you more clear about the concepts of IOT.
 
 ### Table of contents  
  Component       | Link     |
