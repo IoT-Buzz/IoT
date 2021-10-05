@@ -11,45 +11,19 @@ It requires no prerequisites, you only need to have a basic knowledge of Python 
 * [Secrets](https://docs.python.org/3/library/secrets.html)
 * [String](https://docs.python.org/3/library/string.html)
 
-# How to run the code locally
+# How to run the script locally
 
-- Clone this Repository
+Running the script is pretty easy, open a terminal in the folder where your script is located and run the following command :
 
-```
-git clone https://github.com/gaurtvin/python-projects.git
-```
+`python main.py`
 
-- Go to the Project directory
+# Sample use of the script
 
-```
-cd python-projects
-```
+![alt text](https://github.com/Mannuel25/IoT/blob/main/Python-scripts/Password%20Generators/Password%20Generator%201/screenshot_1.png)
 
-- Go to the projects folder
+![alt text](https://github.com/Mannuel25/IoT/blob/main/Python-scripts/Password%20Generators/Password%20Generator%201/screenshot_1.png)
 
-```
-cd projects
-```
-
-- Go to the Password-Generator-1 folder
-
-```
-cd  Password-Generators\Password-Generator-1
-```
-
-- Run the following command
-
-```
-python main.py
-```
-
-# Sample use of the code
-
-![alt text](https://github.com/Mannuel25/python-projects/blob/master/projects/Password-Generators/Password-Generator-1/screenshot_1.png)
-
-![alt text](https://github.com/Mannuel25/python-projects/blob/master/projects/Password-Generators/Password-Generator-1/screenshot_2.png)
-
-![alt text](https://github.com/Mannuel25/python-projects/blob/master/projects/Password-Generators/Password-Generator-1/screenshot_3.png)
+![alt text](https://github.com/Mannuel25/IoT/blob/main/Python-scripts/Password%20Generators/Password%20Generator%201/screenshot_1.png)
 
 # Author's name
 
