@@ -15,3 +15,11 @@
 * `extract_text.py` will extract the message from the given image. It has a function `decrypt(img)` which takes only image as parameter.
 * Just the stego image has to be passed to this function and it will return the hidden message.
 
+Note: ensure that cover image is large as compared to input string or else this algorithm will fail.
+## Cipher
+* Out of many many ciphers available out there, I have chosen morse code. Basically coz it's really cool and I had always been fascinated by it.
+* The file `morse.py` has 2 functions namely `encrypt(msg)` and `decrypt(msg)`. They also do as the name suggests.
+* Call the `encrypt` function with a single string parameter to get morse coded output.
+* Similarly, call the `decrypt` function with morse code string input to get the decoded message! 
+
+Happy coding decoding!
