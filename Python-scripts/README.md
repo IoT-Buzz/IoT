@@ -25,3 +25,4 @@ This directory consist of collection of Different Scripts written in python prog
 | 17    | Word_search_py           | [visit](https://github.com/IoT-Buzz/IoT/tree/main/Python-scripts/Word_search_py)           |
 | 18    | wordSearch               | [visit](https://github.com/IoT-Buzz/IoT/tree/main/Python-scripts/wordSearch)               |
 | 19    | Youtube_Downloader       | [visit](https://github.com/IoT-Buzz/IoT/tree/main/Python-scripts/Youtube_Downloader)       |
+| 20    | Mqtt_send_a_message      | [visit](https://github.com/IoT-Buzz/IoT/tree/main/Python-scripts/mqtt_send)   				|
