@@ -21,7 +21,7 @@ It is made with the help of Arduino UNO, L298N Motor driver and HC05 Bluetooth m
 ![circuit diagram_2 wheels](https://user-images.githubusercontent.com/78155393/194743301-94d248c1-c02f-446e-b47a-734953dcc086.jpg)
 
 
-## Worrking
+## Working
 We connect the Bluetooth module with the mobile app. Once done, the commands which we give through the mobile get sent to the Arduino via the module. We accept character by character from the serial buffer sent by the app and combine them to form a string.
 
 We then compare it to the command. If it matches, the command is carried out. For example, when the string we receive is "Right", the bot turns right.
