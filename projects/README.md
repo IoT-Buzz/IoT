@@ -11,6 +11,7 @@ This Directory consist of collection of different projects related to internet o
 | 3 | Leds in a loop | [Visit](https://github.com/IoT-Buzz/IoT/tree/main/projects/Leds%20in%20a%20loop) |
 | 4 | smart garden | [Visit](https://github.com/IoT-Buzz/IoT/tree/main/projects/smart%20garden) |
 | 5 | Timer | [Visit](https://github.com/IoT-Buzz/IoT/tree/main/projects/Timer) |
+| 6 | Voice Control Car | [Visit](https://github.com/shubhankar-shandilya-india/IoT/tree/Adding-Project/projects/Voice%20Control%20Car) |
 
 
 ## Rules of Posting a Project
