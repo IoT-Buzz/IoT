@@ -42,6 +42,6 @@ else:
 # Difference Percent
 diff_percent = round((diff/yesterday_closing)*100)
 
-# If percent is greater than 5%, get news
+# If percent is greater than 5%, get newsh
 if abs(diff_percent) >= 0:
     send_sms(up_down)
