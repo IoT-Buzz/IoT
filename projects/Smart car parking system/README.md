@@ -1,5 +1,4 @@
 <h1><center>Smart Car Parking System</center></h1>
-<img src="Videdemo.mp4">
 <hr>
 <p>A smart parking system which displays the number of cars in the parking lot and wether or not to enter.</p>
 <img src="demo.jpeg">
