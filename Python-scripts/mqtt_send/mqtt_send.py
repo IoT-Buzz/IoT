@@ -13,12 +13,15 @@ client.connect(MQTT_BROKER,PORT) #connect to Broker
 print("Connect to Broker: {}".format(MQTT_BROKER))
 
 while True:
+    try:
+        data=random.choice(["ON","OFF"])  #Mesasage to Topic
+        print("Send: {} to Topic".format(data))
 
-    data=random.choice(["ON","OFF"])  #Mesasage to Topic
-    print("Send: {} to Topic".format(data))
+        client.publish(TOPIC,data) #send Data
+        time.sleep(2)
 
-    client.publish(TOPIC,data) #send Data
-    time.sleep(2)
+    except:
+        print("Send error! ")
 
 
 
