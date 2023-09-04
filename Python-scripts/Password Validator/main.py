@@ -7,7 +7,7 @@ def passwordValidator():
     """
     # display rules that a password must conform to
     print('\nYour password should: ')
-    print('\t- Have a minimum length of 6;')
+    print('\t- Have a minimum length of 8;')
     print('\t- Have a maximum length of 12;')
     print('\t- Contain at least an uppercase letter or a lowercase letter')
     print('\t- Contain at least a number;')
@@ -17,9 +17,9 @@ def passwordValidator():
     userPassword = input('\nEnter a valid password: ').strip()
    # check if user's password conforms 
    # to the rules above
-    if not(6 <= len(userPassword) <= 12):
+    if not(8 <= len(userPassword) <= 12):
         message = 'Invalid Password..your password should have a minimum '
-        message += 'length of 6 and a maximum length of 12'
+        message += 'length of 8 and a maximum length of 12'
         return message
     if ' ' in userPassword:
        message = 'Invalid Password..your password shouldn\'t contain space(s)'
